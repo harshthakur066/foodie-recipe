@@ -4,6 +4,6 @@
 
 2.`npm install`
 
-3.`npm star`
+3.`npm start`
 
 **Use Your API ID and API key to make request from Eddamam. 
